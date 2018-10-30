@@ -50,16 +50,17 @@ public class GatewayRoutes {
                 )
                 .route(r ->
                         r.host("*.hystrix.org")
-                                .filters(f -> f.hystrix("somecommand"))
+//                                .filters(f -> f.hystrix("somecommand"))
+//                                .filters(f -> f.hystrix(c-> c.setName("somecommand")))
                                 .uri(httpbinUri)
                 )
                 .route(r ->
                         r.host("*.throttle.org")
-                                .filters(f -> f.filter(ThrottleGatewayFilter.newBuilder()
+                                /*.filters(f -> f.filter(ThrottleGatewayFilter.newBuilder()
                                         .withCapacity(1)
                                         .withRefillTokens(1)
                                         .withRefillPeriod(10)
-                                        .withRefillUnit(TimeUnit.SECONDS).build()))
+                                        .withRefillUnit(TimeUnit.SECONDS).build()))*/
                                 .uri(httpbinUri)
                 )
                 .build();
