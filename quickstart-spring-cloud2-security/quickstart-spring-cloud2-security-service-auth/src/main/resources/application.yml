@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: service-auth
+  redis:
+    host: 127.0.0.1
+    database: 0
+server:
+  port: 9098
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.168.66.61:8761/eureka/
+#logging.level.org.springframework.security: DEBUG
+logging:
+  level:
+    root: DEBUG
+    com: DEBUG
+#  file: ${logPath}/${spring.application.name}.log
