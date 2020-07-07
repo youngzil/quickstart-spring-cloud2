@@ -1,0 +1,17 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://20.26.28.167:8988/eureka/
+    healthcheck:
+      enabled: true
+    instance:
+      lease-expiration-duration-in-seconds: 30
+      lease-renewal-interval-in-seconds: 10
+    registry-fetch-interval-seconds: 5
+server:
+  port: 9001
+spring:
+  application:
+    name: client-yang222
+
+
