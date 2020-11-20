@@ -13,17 +13,11 @@ SpringCloud微服务响应式异步系统架构
 🌙传统项目向微服务异构平台架构演变
 响应式微服务服务
 [乱舞]都2020年了 还没用过微服务吗？单体应用向微服务异构平台架构演变
-
 ------------------------------
 [玫瑰]传统项目向微服务异构平台架构演变
 [玫瑰]SpringCloud微服务组件生态体系 SpringCloud Netflix/Alibaba
 [玫瑰]从零开始构建微服务项目各组件应用场景及代码实现
 [玫瑰]常用中间件服务核心解密与技术选型
-[玫瑰]分布式文件存储中间件 FastDFS 
-[玫瑰]分布式消息中间件 RocketMQ Kafka RabbitMQ ActiveMQ
-[玫瑰]分布式搜索中间件ElasticSearch
-[玫瑰]分布式缓存中间件 Redis
-[玫瑰]高并发高性能接入层中间件 LVS、Keepalived、Nginx、Haproxy
 [玫瑰]大数据技术在微服务中的应用
 [玫瑰]淘宝网/拼多多 高并发秒杀系统需求拆解
 [玫瑰]如何把整套技术图谱做成鼠标垫
@@ -33,6 +27,61 @@ SpringCloud微服务响应式异步系统架构
 [嘿哈]如何把整套技术图谱做成鼠标垫
 ----------------
 [勾引]戳此进直播间啦：https://ke.qq.com/webcourse/index.html?cid=399017&term_id=100475965&taid=9751182080087721&from=41
+
+
+@所有人
+[飞吻]SpringCloud Alibaba 一节课搞定 #新版微服务
+
+[月亮]晚上：20：00
+[跳跳]主讲老师：张一明老师
+--------------
+⚠SpringCloud微服务生态体系 SpringCloud Netflix/Alibaba
+⚠SpringCloud 全栈图谱
+⚠SpringCloud Alibaba Sentinel 是什么？
+⚠SpringCloud Alibaba Sentinel 与 Hystrix 的对比
+⚠SpringCloud Alibaba Sentinel Dashboard
+⚠SpringCloud Alibaba Nacos 与 Nacos Dashboard
+⚠SpringCloud Alibaba Sentinel 整合 Nacos 实现限流配置 动态下发
+⚠微服务中常用中间件服务核心解密与技术选型
+⚠互联网项目微服务高并发系统架构
+---------------
+[社会社会]直播地址：https://ke.qq.com/course/2774006?taid=10542675835638774&tuin=61636560
+
+
+⛄一步一步，单体到分布式微服务项目演变
+----------------
+[爱情]传统项目与互联网项目的异同
+[爱情]传统项目改造方法论
+[爱情]互联网项目依赖的分布式协调实现
+[爱情]微服务在互联网项目中的本质
+[爱情]分布式中间件的技术选型参考
+[爱情]高并发，高可用与互联网项目结合
+[爱情]负载均衡种类与项目维度的结合
+[爱情]LVS & Nginx在项目中技术选型
+[爱情]redis缓存在分布式中的技术选型决策
+[爱情]zookeeper如何解决分布式协调问题
+[爱情]kafka等MQ技术在分布式中的技术选型和决策
+[爱情]现代程序员的基本素质和素养
+[爱情]针对程序员的发展进阶规划
+----------------
+
+
+
+💪SpringCloud Alibaba 一节课搞定 #新版微服务
+
+🍺今晚20：00
+👻主讲老师：张一明老师
+----------------
+⚡什么是微服务
+⚡微服务的演化过程
+⚡如何从传统项目平滑过渡
+⚡Sentinel 是什么？
+⚡Sentinel 与 Hystrix 的对比
+⚡Sentinel Dashboard
+⚡Nacos 与 Nacos Dashboard
+⚡Sentinel 整合 Nacos 实现限流配置 动态下发
+----------------
+👉戳此进直播间：https://ke.qq.com/course/399017?taid=10573088496686761&tuin=a028e035
 
 
 

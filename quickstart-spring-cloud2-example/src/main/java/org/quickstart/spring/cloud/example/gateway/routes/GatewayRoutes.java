@@ -3,7 +3,7 @@
  * 文件名：GatewayRoutes.java
  * 版本信息：
  * 日期：2018年9月22日
- * Copyright asiainfo Corporation 2018
+ * Copyright yangzl Corporation 2018
  * 版权所有 *
  */
 package org.quickstart.spring.cloud.example.gateway.routes;
@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * GatewayRoutes 
  *  
- * @author：yangzl@asiainfo.com
+ * @author：youngzil@163.com
  * @2018年9月22日 下午2:46:11 
  * @since 1.0
  */
